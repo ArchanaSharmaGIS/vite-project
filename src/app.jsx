@@ -36,7 +36,7 @@ export function App() {
         , the official Preact + Vite starter
       </p>
       <p class="read-the-docs">
-        Click on the Vite and Preact logos to learn more
+       
       </p>
     </>
   )
